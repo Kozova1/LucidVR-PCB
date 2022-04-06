@@ -3712,7 +3712,7 @@
     (property "Reference" "C_Out1" (id 0) (at 48.26 25.7809 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100uF" (id 1) (at 48.26 28.3209 0)
+    (property "Value" "" (id 1) (at 48.26 28.3209 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 45.4152 31.75 0)
@@ -3885,7 +3885,7 @@
       (reference "C_In1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/f14a48c2-89dc-41e5-ba92-ed2063c6246f"
-      (reference "C_Out1") (unit 1) (value "100uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C_Out1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/b24d4a6b-032c-44bd-924b-dd7f40676b34"
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11")
