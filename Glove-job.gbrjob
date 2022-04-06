@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.4)"
+      "Version": "6.0.4-1.fc35"
     },
-    "CreationDate": "2022-04-06T16:34:30+03:00"
+    "CreationDate": "2022-04-06T20:10:03+03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
